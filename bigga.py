@@ -1,1 +1,0 @@
-print('wadafak is zis')
