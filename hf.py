@@ -1,7 +1,7 @@
 import requests
 import re
 
-hf_token = "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"
+hf_token = ""
 
 API_URL = "https://api-inference.huggingface.co/models/mistralai/Mixtral-8x7B-Instruct-v0.1/v1/chat/completions"
 headers = {"Authorization": f"Bearer {hf_token}"}
