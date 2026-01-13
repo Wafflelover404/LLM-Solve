@@ -1,6 +1,3 @@
-# Generated Solution - 2026-01-13 21:35:05
-
-## Problem Statement
 # Problem Statement
 
 You are given an array of integers. Find the maximum sum of a subarray (contiguous segment) of the array.
@@ -25,23 +22,3 @@ Print a single integer - the maximum subarray sum.
 
 ## Explanation
 The subarray [4, -1, 2, 1] has the largest sum = 6.
-
-
-## Generated Solution
-```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
-int main() {
-    ios_base::sync_with_stdio(false);
-    cin.tie(nullptr);
-    
-    // TODO: Implement solution based on problem statement
-    // Read input from statement.md and implement accordingly
-    
-    return 0;
-}
-```
-
----
-
